@@ -1,4 +1,5 @@
 # goit-js-hw-02
+## https://xoms.github.io/goit-js-hw-02/
 # Критерии приема
 
 - Создан репозиторий `goit-js-hw-02`
